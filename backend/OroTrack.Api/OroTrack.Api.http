@@ -1,0 +1,6 @@
+@OroTrack.Api_HostAddress = http://localhost:5280
+
+GET {{OroTrack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/OroTrack.Api/OroTrack.Api.csproj" />
+    <Project Path="backend/OroTrack.Domain/OroTrack.Domain.csproj" />
+    <Project Path="backend/OroTrack.Infrastructure/OroTrack.Infrastructure.csproj" />
+  </Folder>
+</Solution>

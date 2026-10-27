@@ -1,0 +1,4 @@
+# Las dependencias se instalan dentro de la imagen (npm ci); las de Windows no sirven en Linux.
+node_modules/
+dist/
+.env

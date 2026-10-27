@@ -1,0 +1,8 @@
+# Contexto de build del API (docker-compose usa la raíz). No copiar artefactos locales de Windows.
+**/bin/
+**/obj/
+**/.vs/
+.vs/
+frontend/
+*.user
+.env
